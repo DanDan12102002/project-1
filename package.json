@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/DanDan12102002/project-1/issues"
   },
-  "homepage": "https://github.com/DanDan12102002/project-1#readme"
+  "homepage": "https://github.com/DanDan12102002/project-1#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-connect": "^5.6.1",
+    "gulp-livereload": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
 }
